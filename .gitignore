@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+#Ignorar local
+ConsultorChaquenio/settings/local.py
